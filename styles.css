@@ -1,0 +1,30 @@
+.hero {
+    background-color: #1F2937;
+    
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.link {
+    font-size: 18px;
+    margin: 20px;
+    color: #e5e7eb;
+}
+
+.hero-content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.hero-main-text {
+    font-size: 48px;
+    font-weight: extra-bold;
+}
